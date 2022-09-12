@@ -5,7 +5,7 @@ include imports.mak
 DEVICE ?= am64x
 
 # debug, release
-PROFILE?=release
+PROFILE?=debug
 
 # GP, HS
 DEVICE_TYPE?=GP
